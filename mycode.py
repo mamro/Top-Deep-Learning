@@ -1,5 +1,5 @@
 def function1:
-	linecode line 1  Adding change from rebase conflict
+	linecode line 1  chnage the same line from bigtrouble benach
 	linecode line 2
 	linecode line 3
 	linecode line 4
