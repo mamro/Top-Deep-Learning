@@ -7,7 +7,9 @@ def function1:
 	linecode line 6
 	linecode line 7
 	linecode line 8
-	
+
+# Thanks
+ All my student	
 	
 def function2:
 	linecode line 2-1  Change done using newbranch
